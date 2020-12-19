@@ -1,0 +1,5 @@
+C:\Users\Paulp\source\repos\Assignment 1 - Chapter 9 Programming Exercise\Assignment 1 - Chapter 9 Programming Exercise\obj\Debug\Assignment 1 - Chapter 9 Programming Exercise.csprojAssemblyReference.cache
+C:\Users\Paulp\source\repos\Assignment 1 - Chapter 9 Programming Exercise\Assignment 1 - Chapter 9 Programming Exercise\obj\Debug\Assignment_1___Chapter_9_Programming_Exercise.Form1.resources
+C:\Users\Paulp\source\repos\Assignment 1 - Chapter 9 Programming Exercise\Assignment 1 - Chapter 9 Programming Exercise\obj\Debug\Assignment_1___Chapter_9_Programming_Exercise.Properties.Resources.resources
+C:\Users\Paulp\source\repos\Assignment 1 - Chapter 9 Programming Exercise\Assignment 1 - Chapter 9 Programming Exercise\obj\Debug\Assignment 1 - Chapter 9 Programming Exercise.csproj.GenerateResource.cache
+C:\Users\Paulp\source\repos\Assignment 1 - Chapter 9 Programming Exercise\Assignment 1 - Chapter 9 Programming Exercise\obj\Debug\Assignment 1 - Chapter 9 Programming Exercise.csproj.CoreCompileInputs.cache
